@@ -1,7 +1,8 @@
 use crate::utils;
 
-pub fn b(input_file: &str) {
+pub fn b(input_file: &str) -> usize {
     let input = utils::file::file_to_str(input_file);
+    0
 }
 
 #[cfg(test)]
