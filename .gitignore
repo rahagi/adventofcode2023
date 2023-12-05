@@ -1,0 +1,10 @@
+/target
+/Cargo.lock
+session
+
+# too big
+src/day04/input_big.txt
+src/day05/input_big.txt
+src/day06/input_big.txt
+src/day07/input_big.txt
+
