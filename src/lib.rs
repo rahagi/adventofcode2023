@@ -4,3 +4,4 @@ pub mod day03;
 pub mod day04;
 pub mod utils;
 pub mod day05;
+pub mod day06;
